@@ -7,6 +7,9 @@ The repository focuses on building **utility libraries** (such as Date and Strin
 The libraries and exercises were built as part of the learning path:
 **Cplusplus V3 – V4**, emphasizing hands-on OOP design and implementation.
 
+📌 All library implementations and exercises in this repository were covered in **Course 10** of the **Programming Advices** platform.
+
+
 ---
 
 ## 📂 Repository Overview
