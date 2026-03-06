@@ -159,7 +159,6 @@ This repository helps reinforce:
 Special thanks to:
 - **Professor Abouhodhoud**
 - **Programming Advices**
-- **Berry 🍓** – For continuous encouragement and support
 
 ---
 
